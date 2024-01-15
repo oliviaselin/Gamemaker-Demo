@@ -6,9 +6,10 @@ There is a cat and you can move it around using the arrow keys and space bar to 
 I am no artist by any means but the art is by me. :)
 
 ## Functionality and features practiced
-* sprite creation
-* animation
-* rooms
-* actions and steps
-* collisions
+* Sprite
+* Animation
+* Game objects
+* Rooms
+* Actions and steps
+* Collisions
 
